@@ -1,0 +1,11 @@
+commit 266d771063d982a4fe5d452560188f3b4d6ba4fa
+Author: Maria20xd <merrybmth@gmail.com>
+Date:   Thu Sep 12 12:21:02 2019 -0600
+
+    Encabezado principal en index
+
+commit d53d004320e5c3ad036ff9957c3b5b0942cdf8de
+Author: Maria20xd <merrybmth@gmail.com>
+Date:   Wed Sep 11 12:52:30 2019 -0600
+
+    Archivos iniciales
